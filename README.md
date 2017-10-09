@@ -1,4 +1,6 @@
 # Airhorn Bot
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fairhornbot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fairhornbot?ref=badge_shield)
+
 Airhorn is an example implementation of the [Discord API](https://discordapp.com/developers/docs/intro). Airhorn bot utilizes the [discordgo](https://github.com/bwmarrin/discordgo) library, a free and open source library. Airhorn Bot requires Go 1.4 or higher.
 
 ## Usage
@@ -29,3 +31,7 @@ Note, the webserver requires a redis instance to track statistics
 
 ## Thanks
 Thanks to the awesome (one might describe them as smart... loyal... appreciative...) [iopred](https://github.com/iopred) and [bwmarrin](https://github.com/bwmarrin/discordgo) for helping code review the initial release.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fairhornbot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fairhornbot?ref=badge_large)
